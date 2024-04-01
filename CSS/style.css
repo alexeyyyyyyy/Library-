@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../Image/YemvcR7wcl0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+}
+h1 {
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    color: #15de0f;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+#books {
+        margin-left: 400px;
+}
+#books > label {
+    background-color: rgba(7, 1, 2, 0.88);
+    position: relative;
+    color: #20559b;
+    font-size: 25px;
+}
+#noteBooks{
+    margin-left: 400px;
+    margin-top: 400px;
+}
+#noteBooks > label{
+        background-color: rgba(7, 1, 2, 0.88);
+        position: relative;
+        color: #20559b;
+        font-size: 25px;
+    }
+
+#bookList > li  {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: #f1f1ef;
+    font-size: 30px;
+}
+#noteBookList > li {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: #f1f1ef;
+    font-size: 30px;
+}
+#addBook {
+    position: absolute;
+    background-color: green;
+    font-size: 40px;
+    border-radius: 40%;
+    margin-top: 200px;
+    margin-left: 300px;
+
+}
+#addNoteBook {
+    position: absolute;
+    background-color: green;
+    font-size: 40px;
+    border-radius: 40%;
+    margin-top: 200px;
+
+}
+#img1 {
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    margin-top: 300px;
+}
+#img2{
+    position: absolute;
+    width: 400px;
+    height: 450px;
+
+
+}
